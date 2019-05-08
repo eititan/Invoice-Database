@@ -1,0 +1,19 @@
+﻿<Application x:Class="CS3280_Group1_Invoice.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:CS3280_Group1_Invoice"
+             StartupUri="Main/wndMain.xaml">
+    <Application.Resources>
+
+
+
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Theme.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+
+
+
+    </Application.Resources>
+</Application>
